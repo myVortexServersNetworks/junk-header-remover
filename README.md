@@ -27,7 +27,8 @@ The new beta plugin called Junk Header Remover for your wordpress site, all with
 * Download and unzip the plugin package - junk-header-remover.1.0.0.zip
 * Upload the junk-header-remover to /wp-content/plugins/
 * Activate the plugin through the 'Plugins' menu in WordPress
-* The plugin will remove junk from the header in wordpress on the fly. no more editing or confusing.
+* The plugin will remove junk from the header in wordpress on the fly. 
+* no more editing or confusing.
 
 
 == Frequently Asked Question =====
