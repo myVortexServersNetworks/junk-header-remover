@@ -5,7 +5,7 @@ Tags: header, junk, header, junk header, overhead, load time, speed, faster, sav
 Tested up to: 5.4.2
 Stable tag: 1.0.0
 License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
