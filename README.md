@@ -1,10 +1,15 @@
 === Header Junk Remover ===
 
 Contributors: The Deaf Joe ( www.thedeafjoe.site/ideas/header-junk-remover )
+
 Tags: header, junk, header, junk header, overhead, load time, speed, faster, save space, space, load speed, loading fast
+
 Tested up to: 5.5
+
 Stable tag: 1.0.0
+
 License: GPLv3
+
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
