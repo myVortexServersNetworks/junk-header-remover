@@ -4,7 +4,7 @@ Contributors: The Deaf Joe ( www.thedeafjoe.site/ideas/header-junk-remover )
 
 Tags: header, junk, header, junk header, overhead, load time, speed, faster, save space, space, load speed, loading fast
 
-Tested up to: 5.5
+Tested up to: 5.5.1
 
 Stable tag: 1.0.0
 
@@ -49,4 +49,4 @@ N/A
 == Requirements ===
 
 
-To have this plugin to fuction, your wordpress version must be 5.5 (The current version)
+To have this plugin to fuction, your wordpress version must be 5.5.1 (The current version)
