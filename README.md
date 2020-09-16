@@ -2,8 +2,6 @@
 
 Contributors: The Deaf Joe ( www.thedeafjoe.site/ideas/header-junk-remover )
 
-Tags: header, junk, header, junk header, overhead, load time, speed, faster, save space, space, load speed, loading fast
-
 Current Version: 1.0.0
 
 License: GPLv3
