@@ -44,4 +44,4 @@ N/A
 == Requirements ===
 
 
-To have this plugin to fuction, your wordpress version must be at least 5.4.2 or greater.
+To have this plugin to fuction, your wordpress version must be at least 5.4.2
