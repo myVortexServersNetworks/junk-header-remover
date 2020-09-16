@@ -32,7 +32,6 @@ The new beta plugin called Junk Header Remover for your wordpress site, all with
 
 N/A
 
-
 == Changelog ==
 
 v1.0  - The new beta plugin is being released in beta stage.
