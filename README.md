@@ -30,7 +30,7 @@ The new beta plugin called Junk Header Remover for your wordpress site, all with
 
 == Frequently Asked Question =====
 
-N/A
+N/A 
 
 == Changelog ==
 
