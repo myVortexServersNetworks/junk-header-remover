@@ -4,23 +4,18 @@ Contributors: The Deaf Joe ( www.thedeafjoe.site/ideas/header-junk-remover )
 
 Tags: header, junk, header, junk header, overhead, load time, speed, faster, save space, space, load speed, loading fast
 
-Tested up to: 5.5.1
-
-Stable tag: 1.0.0
+Current Version: 1.0.0
 
 License: GPLv3
 
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
+
 == Description ==
-
-
 The new beta plugin called Junk Header Remover for your wordpress site, all with one simple file. That simple!
 
 
 == Installation ==
-
-
 = To install the plugin via WordPress Dashboard: =
 * In the WordPress admin panel, navigate to Plugin > Add new
 * Search for Junk Header Remover
@@ -34,7 +29,6 @@ The new beta plugin called Junk Header Remover for your wordpress site, all with
 
 
 == Frequently Asked Question =====
-
 N/A 
 
 == Changelog ==
@@ -43,10 +37,7 @@ v1.0  - The new beta plugin is being released in beta stage.
 
 
 == Upgrade Notice ==
-
 N/A
 
 == Requirements ===
-
-
 To have this plugin to fuction, your wordpress version must be 5.5.1 (The current version)
