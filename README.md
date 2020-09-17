@@ -39,6 +39,15 @@ The new beta plugin called Junk Header Remover for your wordpress site, all with
 
 N/A 
 
+
+== Support ==
+
+Please submit bugs, patches, and feature requests to:
+
+[https://github.com/thedeafjoe/junk-header-remover]
+
+
+
 == Upgrade Notice ==
 
 N/A
