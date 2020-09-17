@@ -1,10 +1,10 @@
-<?php
+j<?php
 /*
 Plugin Name: Junk Header Remover
 Plugin URI: www.thedeafjoe.site/ideas/junk-header-remover/
 Description: Removes unnecessary clutter junk from WP Header
 Version: 1.0.0
-Author: The Deaf Joe
+Author: Joseph Brzezowski
 */
 
 /*Removes RSD, XMLRPC, WLW, WP Generator, ShortLink, Comment Feed links and Many more*/
