@@ -1,6 +1,6 @@
 === Header Junk Remover ===
 Contributors: thedeafjoe
-Donate Link:  https://www.thedeafjoe.site
+Donate Link:  https://www.thedeafjoe.site/projects/junk-header-remover-for-wordpress/
 Tags:  junk, header, remove junk, speed, faster, faster loading, fast, less junk, no headahces
 Requires at least:  4.9
 Tested up to: 5.5.1
