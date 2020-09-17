@@ -1,17 +1,15 @@
 === Header Junk Remover ===
 Contributors: thedeafjoe
-
-Tags: junk, header, remove junk, speed, faster loading, less junk, no headaches
-
-Requires at least: 4.9
-
+Donate Link:  https://www.thedeafjoe.site
+Tags:  junk, header, remove junk, speed, faster, faster loading, fast, less junk, no headahces
+Requires at least:  4.9
 Tested up to: 5.5.1
+Stable Tag:  4.3
+Requires PHO: 7.0
+License GPLv2 or later
+License URI:  https://www.gnu.org/license/gpl-2.0.html
 
-Stable tag: 1.0
-
-Requires PHP: 5.6
-
-License: GPLv3
+The simple Junk Remover Header plugin that will eliminates nonsense stuff in your Wordpress header and only one PHP file.
 
 
 == Description ==
