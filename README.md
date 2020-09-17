@@ -28,6 +28,7 @@ The new beta plugin called Junk Header Remover for your wordpress site, all with
 * no more editing or confusing.
 
 
+
 == Frequently Asked Question =====
 
 N/A 
