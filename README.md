@@ -39,11 +39,6 @@ The new beta plugin called Junk Header Remover for your wordpress site, all with
 
 N/A 
 
-== Changelog ==
-
-v1.0  - The new beta plugin is being released in beta stage.
-
-
 == Upgrade Notice ==
 
 N/A
@@ -51,3 +46,9 @@ N/A
 == Requirements ===
 
 To have this plugin to fuction, your wordpress version must be 5.5.1 (The current version)
+
+
+
+== Changelog ==
+
+v1.0b  - The new beta plugin is being released in beta stage.
