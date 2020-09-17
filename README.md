@@ -48,10 +48,6 @@ Please submit bugs, patches, and feature requests to:
 
 
 
-== Upgrade Notice ==
-
-N/A
-
 == Requirements ===
 
 To have this plugin to fuction, your wordpress version must be 5.5.1 (The current version)
