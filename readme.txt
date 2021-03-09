@@ -1,11 +1,11 @@
 === Header Junk Remover ===
-Contributors: thedeafjoe
+Contributors: myVortexServersNetworks
 Donate Link:  https://www.myvortexservers.net/junk-header-remover-for-wordpress/
 Tags:  junk, header, remove junk, speed, faster, faster loading, fast, less junk, no headahces
-Requires at least:  4.9
-Tested up to: 5.5.1
+Requires at least:  5.0
+Tested up to: 5.6.2
 Stable Tag:  4.3
-Requires PHO: 7.0
+Requires PHP: 7.4.
 License GPLv2 or later
 License URI:  https://www.gnu.org/license/gpl-2.0.html
 
@@ -48,7 +48,7 @@ Please submit bugs, patches, and feature requests to:
 
 == Requirements ===
 
-To have this plugin to fuction, your wordpress version must be 5.5.1 (The current version)
+To have this plugin to fuction, your wordpress version must be 5.6.5 (The current version)
 
 
 
