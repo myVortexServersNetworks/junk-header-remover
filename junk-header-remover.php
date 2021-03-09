@@ -1,7 +1,7 @@
 j<?php
 /*
 Plugin Name: Junk Header Remover
-Plugin URI: www.thedeafjoe.site/ideas/junk-header-remover/
+Plugin URI: https://myvortexservers.net/projects/junk-header-remover-for-wordpress/
 Description: Removes unnecessary clutter junk from WP Header
 Version: 1.0.0
 Author: Joseph Brzezowski
