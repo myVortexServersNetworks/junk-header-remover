@@ -1,6 +1,6 @@
 === Header Junk Remover ===
 Contributors: myVortexServersNetworks
-Donate Link:  https://www.myvortexservers.net/junk-header-remover-for-wordpress/
+Donate Link:  https://myvortexservers.net/projects/junk-header-remover-for-wordpress/
 Tags:  junk, header, remove junk, speed, faster, faster loading, fast, less junk, no headahces
 Requires at least:  5.0
 Tested up to: 5.6.2
