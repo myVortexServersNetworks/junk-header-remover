@@ -3,9 +3,9 @@ Contributors: myVortexServersNetworks
 Donate Link:  https://myvortexservers.net/projects/junk-header-remover-for-wordpress/
 Tags:  junk, header, remove junk, speed, faster, faster loading, fast, less junk, no headahces
 Requires at least:  5.0
-Tested up to: 5.6.2
+Tested up to: 5.7
 Stable Tag:  4.3
-Requires PHP: 7.4.
+Requires PHP: 7.4.15
 License GPLv2 or later
 License URI:  https://www.gnu.org/license/gpl-2.0.html
 
